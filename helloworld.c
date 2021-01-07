@@ -3,5 +3,6 @@
 int main()
 {
   printf("Hello World!\n");
+  printf("CCA is the best\n");
   return 0;
 }
